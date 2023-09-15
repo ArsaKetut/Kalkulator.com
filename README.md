@@ -1,1 +1,1 @@
-# Kalkulator.com
+# Kalkulator
